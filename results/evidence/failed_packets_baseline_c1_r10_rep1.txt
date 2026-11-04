@@ -1,0 +1,4 @@
+# packets that never got an ACK after all retries (success = 0)
+client_id,seq,send_time,ack_time,retries,success
+1,40,1793684704.671784,,8,0
+1,41,1793684707.500252,,8,0

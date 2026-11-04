@@ -1,0 +1,19 @@
+== adaptive_c2_r10_rep1: controller events (whole run)
+    9 FLOW_AFFECTED
+    5 HOST_LEARNED
+    5 LINK_DOWN
+   10 LINK_UP
+    3 NO_PATH
+    6 PATH_INSTALLED
+    6 REROUTE
+    3 RESTORE
+    4 SWITCH_DOWN
+    4 SWITCH_UP
+
+== baseline_c2_r10_rep1: controller events (whole run)
+    5 HOST_LEARNED
+   10 LINK_UP
+    6 PATH_INSTALLED
+    4 SWITCH_UP
+
+The baseline has no LINK_DOWN / FLOW_AFFECTED / REROUTE / RESTORE events: it never adapts.

@@ -1,0 +1,1 @@
+{"run_id": "adaptive_c2_r10_rep1", "controller": "adaptive", "clients": 2, "rate": 10.0, "count": 250, "delay": "5ms", "loss": 0}

@@ -1,0 +1,3 @@
+# run: baseline_c2_r10_rep1 (s1-s2 down, then up 7 s later)
+# The baseline controller never logs LINK_DOWN, FLOW_AFFECTED, REROUTE or RESTORE: it keeps the first path.
+# Events found in the experiment window: 0

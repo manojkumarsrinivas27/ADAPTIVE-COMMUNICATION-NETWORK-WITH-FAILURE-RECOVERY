@@ -1,0 +1,1 @@
+{"run_id": "scen_multi_baseline", "controller": "baseline", "clients": 2, "rate": 10.0, "count": 300, "delay": "5ms", "loss": 0}
